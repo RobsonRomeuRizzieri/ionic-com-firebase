@@ -20,7 +20,7 @@ import { ContactProvider } from '../providers/contact/contact';
     BrowserModule,
     IonicModule.forRoot(MyApp),
     AngularFireModule.initializeApp({
-      Dados de conexão 
+      //Dados para conexão com a API
     }),
     AngularFireDatabaseModule
   ],
